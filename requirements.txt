@@ -1,0 +1,7 @@
+Flask
+flask-cors
+gunicorn
+boto3
+authlib
+requests
+
